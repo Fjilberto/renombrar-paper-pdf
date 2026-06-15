@@ -1,4 +1,4 @@
-Python script to automatically rename poorly formatted scientific PDF files into a clean, standardized format: `Author_Year_Title.pdf`.
+# Python script to automatically rename poorly formatted scientific PDF files into a clean, standardized format: `Author_Year_Title.pdf`.
 
 How to use:
 
